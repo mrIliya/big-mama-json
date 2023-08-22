@@ -1,75 +1,74 @@
 {
-    "nodes" :
-    [
+    "nodes": [
         {
-            "host" : "node-752-st1.bigmama.network",
-            "port" : 443,
-            "iso" : 752,
-            "lat" : 59.334591,
-            "long" : 18.063240,
-            "city" : "Stockholm",
-            "key" : "SRs4iLXx3635QY5D8h31YhYt8fLruWzN216f6509Yd70",
-            "id" : "d2d04ec1-eebf-4ca9-882a-c11269dc4fda"
+            "host": "node-752-st1.bigmama.network",
+            "port": 443,
+            "iso": 752,
+            "lat": 59.334591,
+            "long": 18.063240,
+            "city": "Stockholm",
+            "key": "SRs4iLXx3635QY5D8h31YhYt8fLruWzN216f6509Yd70",
+            "id": "d2d04ec1-eebf-4ca9-882a-c11269dc4fda"
         },
         {
-            "host" : "node-us-la1.bigmama.network",
-            "port" : 443,
-            "iso" : 840,
-            "lat" : 34.098907,
-            "long" : -118.327759,
-            "city" : "Los-Angeles",
-            "key" : "9T38BlVciTo58sbnrsbZom44nHzQ5074zc5heAwLcTZm",
-            "id" : "435af9a4-df6a-4851-97d5-f3b89659212e"
+            "host": "node-us-la1.bigmama.network",
+            "port": 443,
+            "iso": 840,
+            "lat": 34.098907,
+            "long": -118.327759,
+            "city": "Los-Angeles",
+            "key": "9T38BlVciTo58sbnrsbZom44nHzQ5074zc5heAwLcTZm",
+            "id": "435af9a4-df6a-4851-97d5-f3b89659212e"
         },
         {
-            "host" : "node-us-sf1.bigmama.network",
-            "port" : 443,
-            "iso" : 840,
-            "lat" : 37.773972,
-            "long" : -122.431297,
-            "city" : "San-Francisco",
-            "key" : "BD074osmo1HHVEs55vJn7F1msqlHjU9H68724xWw39FY",
-            "id" : "6fadd0d6-3d6c-45ff-a261-b57548f03e37"
+            "host": "node-us-sf1.bigmama.network",
+            "port": 443,
+            "iso": 840,
+            "lat": 37.773972,
+            "long": -122.431297,
+            "city": "San-Francisco",
+            "key": "BD074osmo1HHVEs55vJn7F1msqlHjU9H68724xWw39FY",
+            "id": "6fadd0d6-3d6c-45ff-a261-b57548f03e37"
         },
         {
-            "host" : "node-us-atl1.bigmama.network",
-            "port" : 443,
-            "iso" : 840,
-            "lat" : 33.753746,
-            "long" : -84.386330,
-            "city" : "Atlanta",
-            "key" : "i4WOK0wqj8jnpTW10yzu3OlHZoO36Mcij1Md5I2e6dHT",
-            "id" : "e2708b09-4511-4766-bcd6-cbf5321bcf1f"
+            "host": "node-us-atl1.bigmama.network",
+            "port": 443,
+            "iso": 840,
+            "lat": 33.753746,
+            "long": -84.386330,
+            "city": "Atlanta",
+            "key": "i4WOK0wqj8jnpTW10yzu3OlHZoO36Mcij1Md5I2e6dHT",
+            "id": "e2708b09-4511-4766-bcd6-cbf5321bcf1f"
         },
         {
-            "host" : "node-fr-pr1.bigmama.network",
-            "port" : 443,
-            "iso" : 250,
-            "lat" : 48.858093,
-            "long" : 2.294694,
-            "city" : "Paris",
-            "key" : "7R8Lb6wYJaCbzr1SS6ZhuBW78vS7qXNPt0m0PpWq207W",
-            "id" : "516db2f2-12ba-444d-af72-44a2e505a3b8"
+            "host": "node-fr-pr1.bigmama.network",
+            "port": 443,
+            "iso": 250,
+            "lat": 48.858093,
+            "long": 2.294694,
+            "city": "Paris",
+            "key": "7R8Lb6wYJaCbzr1SS6ZhuBW78vS7qXNPt0m0PpWq207W",
+            "id": "516db2f2-12ba-444d-af72-44a2e505a3b8"
         },
         {
-            "host" : "node-fr-ln1.bigmama.network",
-            "port" : 443,
-            "iso" : 250,
-            "lat" : 45.763420,
-            "long" : 4.834277,
-            "city" : "Lyon",
-            "key" : "vC8BCb3zg59w8Z47Q64myuF6k2p19OGKt17Yn36u6r22",
-            "id" : "c9df9df6-c583-417b-81cc-fb42a24a6236"
+            "host": "node-fr-ln1.bigmama.network",
+            "port": 443,
+            "iso": 250,
+            "lat": 45.763420,
+            "long": 4.834277,
+            "city": "Lyon",
+            "key": "vC8BCb3zg59w8Z47Q64myuF6k2p19OGKt17Yn36u6r22",
+            "id": "c9df9df6-c583-417b-81cc-fb42a24a6236"
         },
         {
-            "host" : "node-de-br1.bigmama.network",
-            "port" : 443,
-            "iso" : 276,
-            "lat" : 13.381777,
-            "long" : 52.531677,
-            "city" : "Berlin",
-            "key" : "Zyky3uT3E69zOrIRDvK4upNIxV4Zh679IrkYPKnSEEQ8",
-            "id" : "4091126e-1df0-4e8e-b444-8f13641b2bd4"
+            "host": "node-de-br1.bigmama.network",
+            "port": 443,
+            "iso": 276,
+            "lat": 52.531677,
+            "long": 13.381777,
+            "city": "Berlin",
+            "key": "Zyky3uT3E69zOrIRDvK4upNIxV4Zh679IrkYPKnSEEQ8",
+            "id": "4091126e-1df0-4e8e-b444-8f13641b2bd4"
         }
     ]
 }
